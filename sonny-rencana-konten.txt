@@ -5,4 +5,5 @@ RENCANA SONNY
 - javascript
   *ES6
   *framework
-- Stuktur Data
+   ^Angular
+   ^React
