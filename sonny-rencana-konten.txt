@@ -1,0 +1,7 @@
+RENCANA SONNY
+
+- html
+- css
+- javascript
+  *ES6
+  *framework
