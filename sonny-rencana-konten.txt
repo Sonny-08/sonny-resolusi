@@ -6,5 +6,6 @@ RENCANA SONNY
   *ES6
   *framework
    ^ Vue
+   ^ React
 - Stuktur Data
 - Phyton
