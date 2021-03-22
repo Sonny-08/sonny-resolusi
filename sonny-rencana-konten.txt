@@ -5,5 +5,7 @@ RENCANA SONNY
 - javascript
   *ES6
   *framework
-   ^Angular
-   ^React
+   ^ Vue
+   ^ React
+- Stuktur Data
+- Phyton
